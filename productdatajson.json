@@ -1,0 +1,122 @@
+[
+  {
+    "name": "SleekTech Smartphone",
+    "company": "TechMaster",
+    "price": 699.99,
+    "rating": 4.8
+  },
+  {
+    "name": "Precision Watch",
+    "company": "Horizon Timepieces",
+    "price": 189.95,
+    "rating": 4.5
+  },
+  {
+    "name": "Elite Wireless Headphones",
+    "company": "AcousticWave",
+    "price": 249.00,
+    "rating": 4.7
+  },
+  {
+    "name": "Organic Fresh Produce Box",
+    "company": "GreenHarvest Farms",
+    "price": 39.99,
+    "rating": 4.6
+  },
+  {
+    "name": "ProChef Culinary Knife Set",
+    "company": "CuisineCraft",
+    "price": 129.75,
+    "rating": 4.9
+  },
+  {
+    "name": "RetroGroove Turntable",
+    "company": "VinylVibe",
+    "price": 179.50,
+    "rating": 4.4
+  },
+  {
+    "name": "Aromatherapy Bliss Candle Set",
+    "company": "ZenScents",
+    "price": 49.99,
+    "rating": 4.7
+  },
+  {
+    "name": "SmartNest Thermostat",
+    "company": "HomeConnect",
+    "price": 149.00,
+    "rating": 4.6
+  },
+  {
+    "name": "ClassicStyle Aviator Sunglasses",
+    "company": "SunLux",
+    "price": 89.95,
+    "rating": 4.3
+  },
+  {
+    "name": "Decadent Artisan Chocolate Box",
+    "company": "CocoaCraft",
+    "price": 24.50,
+    "rating": 4.8
+  },
+  {
+    "name": "FitTrack Fitness Tracker",
+    "company": "ActiveLife Tech",
+    "price": 159.99,
+    "rating": 4.5
+  },
+  {
+    "name": "ModernLiving Coffee Table",
+    "company": "UrbanElegance",
+    "price": 259.00,
+    "rating": 4.7
+  },
+  {
+    "name": "PureGlow Skincare Collection",
+    "company": "NaturaBliss",
+    "price": 79.50,
+    "rating": 4.4
+  },
+  {
+    "name": "PowerPro Cordless Drill Kit",
+    "company": "ToolMasters",
+    "price": 199.95,
+    "rating": 4.6
+  },
+  {
+    "name": "CozyHaven Knit Blanket",
+    "company": "WarmEmbrace",
+    "price": 49.99,
+    "rating": 4.9
+  },
+  {
+    "name": "HarmonySound Bluetooth Speaker",
+    "company": "AudioWave",
+    "price": 109.00,
+    "rating": 4.2
+  },
+  {
+    "name": "ProCapture DSLR Camera",
+    "company": "PixelPerfect",
+    "price": 1499.00,
+    "rating": 4.7
+  },
+  {
+    "name": "MasterChef Cookware Set",
+    "company": "CulinaryMasters",
+    "price": 349.99,
+    "rating": 4.5
+  },
+  {
+    "name": "ElegantWork Desk and Chair Set",
+    "company": "ModernOffice",
+    "price": 299.50,
+    "rating": 4.6
+  },
+  {
+    "name": "LuxAura Noise-Cancelling Earbuds",
+    "company": "SonicSolutions",
+    "price": 139.95,
+    "rating": 4.3
+  }
+]
